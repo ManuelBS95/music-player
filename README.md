@@ -1,3 +1,3 @@
 Hello
 
-This is a Music Player Clone of Windows 11
+This is a Music Player Project
